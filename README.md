@@ -9,4 +9,4 @@ Don't get hit by any cars.
 There are five levels in total. At higher levels, cars move at higher speeds.
 
 ### 3. Example pictures
-![start the game](https://github.com/HonglinZheng/turtleCrossingGame/blob/main/start the game.jpg?raw=true)
+![start the game](https://github.com/HonglinZheng/turtleCrossingGame/blob/main/started.jpg?raw=true)
